@@ -1,0 +1,1 @@
+{"jsonrpc":"2.0","params":{"textDocument":{"uri":"file:\/\/\/home\/michael\/test\/main.lua","version":11},"contentChanges":[{"range":{"end":{"line":0,"character":8},"start":{"line":0,"character":7}},"rangeLength":1,"text":""}]},"method":"textDocument\/didChange"}
